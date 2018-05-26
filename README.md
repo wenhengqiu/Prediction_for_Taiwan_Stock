@@ -6,6 +6,8 @@
 - @version: 1.0 | 2018/05/21
 - @email: wenhengqiu@gmail.com
 
+内容我上传到了nbviewer：http://nbviewer.jupyter.org/github/wenhengqiu/Prediction_for_Taiwan_Stock/blob/master/Prediction_for_Stock.ipynb
+
 ### 数据前处理
 - 从一堆数据中获得与台股2912相关的文章，分为2016年及2017年
 - 需要解决数据中NaN的问题，尤其是用正则匹配中文字后，数据为空的情况
